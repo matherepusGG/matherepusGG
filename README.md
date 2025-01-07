@@ -2,9 +2,9 @@
 meu nome é Matheus tenho 19 anos e estou entrando na area de desenvolvimento de software back-end *(por enquanto)* pretendo aumentar minhas capacidades na area da tecnologia.
 
 # 📨 redes de contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-da-silva-abreu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/matheus-da-silva-abreu )
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](math3us.silva.abr3u@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)]( math3us.silva.abr3u@gmail.com )
 
 # 🦾 Linguagens de Programação
 a baixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
