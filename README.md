@@ -9,7 +9,7 @@ meu nome é Matheus tenho 19 anos e estou entrando na area de desenvolvimento de
 # 🦾 Linguagens de Programação
 a baixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C#](file:///C:/Users/HP%20-%20X360/Downloads/c-logo-icon-28402.png) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
