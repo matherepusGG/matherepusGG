@@ -21,7 +21,7 @@ a baixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
 
 # Minhas estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matherepusGG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=#6288eb&title_color=#e6c062&text_color=#e6c062)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matherepusGG&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=#6288eb&title_color=#e6c062&text_color=#e6c062)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matherepusGG&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=#e6c062&text_color=FFF)
 
