@@ -7,7 +7,7 @@ meu nome é Matheus tenho 20 anos e estou na area de desenvolvimento de software
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)]( math3us.silva.abr3u@gmail.com )
 
 # 🦾 Linguagens de Programação
-a baixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
+abaixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
