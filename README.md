@@ -15,7 +15,7 @@ a baixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
 
 # Minhas estastisticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1gorCH&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?matherepusGG=1gorCH&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 # 🗂️ outras habilidades
 
