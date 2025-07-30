@@ -13,7 +13,7 @@ a baixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# Minhas estastisticas
+# Minhas estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matherepusGG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
