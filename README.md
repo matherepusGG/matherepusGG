@@ -18,6 +18,7 @@ abaixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-c2e4f7?style=for-the-badge&logo=MySql&logoColor=blue)
 
 # Minhas estatísticas
 
