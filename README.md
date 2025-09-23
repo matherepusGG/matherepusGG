@@ -20,6 +20,7 @@ abaixo estão algumas linguagens que utilizo ou ja fiz cursos sobre.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-c2e4f7?style=for-the-badge&logo=MySql&logoColor=blue)
 
+
 # Minhas estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matherepusGG&theme=transparent&bg_color=00000000&border_color=00000000&show_icons=true&icon_color=73C2FB&title_color=3675ff&text_color=73C2FB)
